@@ -1,0 +1,22 @@
+{
+  "name": "appm",
+  "version": "1.0.0",
+  "description": "middleware de la app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulianC06/appm.git"
+  },
+  "author": "julian castaneda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulianC06/appm/issues"
+  },
+  "homepage": "https://github.com/JulianC06/appm#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
