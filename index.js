@@ -47,8 +47,5 @@ app.listen(port, () => {
   console.log(`Example app listening at http://localhost:${port}`);
 });
 
-p=0
-while(p!=0){
-p;
 
 }
